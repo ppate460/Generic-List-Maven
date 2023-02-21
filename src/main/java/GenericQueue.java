@@ -95,4 +95,4 @@ public class GenericQueue<T> extends GLProject {
     } // end of dequeue()
 
 
-} // end of public class GenericQueue()
+} 
